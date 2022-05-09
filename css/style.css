@@ -1,0 +1,7 @@
+.pattern {
+    height: 100px;
+    background-position: top;
+    background-image: url('../img/pattern.png');
+    background-color: dodgerblue;
+    background-size: contain;
+}
