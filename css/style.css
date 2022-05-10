@@ -9,11 +9,12 @@ body {
     background-color: dodgerblue;
     background-size: 30%;
     background-position: top;
+    line-height: 100px;
 }
 
 #logo {
     width: 20%;
-    margin: 30px 0;
+    vertical-align: middle;
 
 }
 
