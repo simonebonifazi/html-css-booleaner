@@ -3,18 +3,17 @@ body {
     margin: 0 10%;
 }
 
-/* tento di riuscire con l'header: posso tagliare l'immagine??*/
 .pattern {
-    height: 100px;
+    height: 85px;
     background-image: url('../img/pattern.png');
     background-color: dodgerblue;
-    background-size: contain;
-    background-position: center;
+    background-size: 30%;
+    background-position: top;
 }
 
 #logo {
     width: 20%;
-    margin: 50px 0;
+    margin: 30px 0;
 
 }
 
@@ -94,15 +93,15 @@ section>div {
 
 }
 
-.foto-1 {
+.img-monitor {
     background-image: url('../img/monitor.jpg');
 }
 
-.foto-2 {
+.img-graph {
     background-image: url('../img/graph.jpg');
 }
 
 .testo {
-    padding-left: 15px;
+    padding: 15px;
 
 }
